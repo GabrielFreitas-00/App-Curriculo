@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Currículo</string>
+    <string name="app_nameEducacao">Educação</string>
+    <string name="app_nameDiferenciais">Diferenciais</string>
+    <string name="app_contato">Contato</string>
+    <string name="Nome">Gabriel Freitas</string>
+    <string name="Idade">Idade: 20 </string>
+    <string name="TrocaModo">Alterar tema: </string>
+
+    <!-- Experiencias Profissionais -->
+    <string name="Experiencia">Experiências: </string>
+    <string name="TJSP">TJSP - Auxiliar no atendimento ao público, localização de processos,
+                elaboração de protocolos para remessa externa, participando da rotina
+                administrativa do cartório.
+    </string>
+    <string name="Tefti">Atendimento ao cliente com problemas na forma de pagamento (POS e PDV) e realizando uma análise sobre a resolução necessária. Responsável por e-mails internos e externos, projetos de subadquirentes.
+        Auxiliar a gestão sobre as métricas, criação de processos com inovação e equipe de analistas.
+    </string>
+
+    <!-- Segunda Tela -->
+    <string name="Educação">Educação</string>
+    <string name="Diferenciais">Diferenciais</string>
+    <string name="Contato">Contato</string>
+
+    <!-- Tela Educação -->
+    <string name="instituições">Instituições de Ensino: </string>
+    <string name="Escola">Escola Estadual Paulo Novaes de Carvalho: Ensino Médio</string>
+    <string name="Escolaridade">Ensino Médio Completo</string>
+    <string name="DataEnsinoMedio">Término: 12/2017</string>
+    <string name="Senac">Senac Vila Prudente: Técnico em Informática</string>
+    <string name="Duracao">Período: 05/2018 à 09/2020</string>
+    <string name="DescricaoCurso"> Experiência em desenvolvimento mobile com Java para Android. Integração com Firebase para envio de e-mails, cadastro no banco de dados. Utilizar bibliotecas externas para melhora de UI / UX. Criação e manutenção de repositórios no GitHub. Integração de APIS . Correção de bugs e refatorando o código dos projetos.
+
+    </string>
+
+    <!-- Tela de Contato -->
+    <string name="MeiosDeContato">Meios de Contato</string>
+    <string name="CompartilharEmail">Compartilhar e-mail</string>
+    <string name="CompartilharTelefone">Compartilhar Telefone</string>
+    <string name="CompartilharGitHub">Compartilhar GitHub</string>
+    <string name="textDiferenciais">Visão analítica para entrega de metas, dinamismo e pró-atividade, excelência , habilidades de gestão de projetos, prazos e senso de priorização. Capacidade de aprendizagem rápida, perfil de liderança, buscando a melhora de hard skills e soft skills assim contribuindo ao máximo para empresa. Utilizar a tecnologia como a principal ferramenta no negócio da empresa para escalar seus produtos e serviços.</string>
+
+
+</resources>

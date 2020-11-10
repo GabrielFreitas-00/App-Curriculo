@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="declarando_stilo">
+        <attr name="backgroundColor" format="color"/>
+        <attr name="textColorTitulo" format="color"/>
+        <attr name="CardViewColor" format="color" />
+        <attr name="textColorTexto" format="color"/>
+        <attr name="textColorCardView" format="color"/>
+        <attr name="backgroundButton" format="color"/>
+    </declare-styleable>
+
+
+</resources>

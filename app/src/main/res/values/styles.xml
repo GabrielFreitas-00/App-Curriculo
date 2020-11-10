@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- TemaPadrao theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#b0e0e6</item>
+        <item name="colorPrimaryDark">#b0e0e6</item>
+        <item name="colorAccent">@android:color/holo_blue_dark</item>
+        <item name="backgroundColor">#f5f5f5</item>
+        <item name="textColorTitulo">#202020</item>
+        <item name="CardViewColor">#f5f5f5</item>
+        <item name="textColorTexto">#4e4e4e</item>
+        <item name="textColorCardView">@android:color/holo_blue_dark</item>
+    </style>
+
+
+    <!-- TemaEscuro theme. -->
+    <style name="TemaEscuro" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#000080</item>
+        <item name="colorPrimaryDark">#000080</item>
+        <item name="colorAccent">#000080</item>
+        <item name="backgroundColor">#101010</item>
+        <item name="textColorTitulo">#fff</item>
+        <item name="CardViewColor">#202020</item>
+        <item name="textColorCardView">#fff</item>
+    </style>
+
+</resources>
